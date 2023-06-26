@@ -44,6 +44,14 @@ I'm a Software Information Technology student at University of Miskolc. I like t
     
   </p>
 </details>
+
+<br />
+
+---
+
+### My LeetCode journey
+I'm trying to improve myself by doing LeetCode challenges. Here you can find my LeetCode stats.
+![LeetCode Stats](https://leetcard.jacoblin.cool/minimalistpeach?border=0&radius=20)
           
           
           
