@@ -40,19 +40,14 @@ I'm a Software Information Technology student at University of Miskolc. I like t
     👨🏽 About me
   </summary>
   <p>
-    
+    I am a 22 year old Software Technology student at the University of Miskolc. I am interested in the world of software and the code behind applications. I like to make smaller programming projects, these are shown here in my Github repo.
     
   </p>
 </details>
 
 <br />
 
----
-
-### My LeetCode journey
-I'm trying to improve myself by doing LeetCode challenges. Here you can find my LeetCode stats.
-![LeetCode Stats](https://leetcard.jacoblin.cool/minimalistpeach?border=0&radius=20)
-          
+---      
           
           
           
