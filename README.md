@@ -1,8 +1,8 @@
 # 🍑 MinimalistPeach
 
-**`Enthusiastic developer`**
+**`Full-Stack developer`**
 
-I'm a Software Information Technology student at University of Miskolc. I like to do solo coding projects in my freetime, you can find those down below. I always try to improve my skills, get better and better every day.
+I'm a Software Engineering Master student at University of Miskolc. I like to do solo coding projects in my freetime, you can find those down below. I always try to improve my skills, get better and better every day.
 
 ---
 
@@ -26,28 +26,7 @@ I'm a Software Information Technology student at University of Miskolc. I like t
 
 <br />
 
----
-
-### 📝 My recent blogposts
-![Please stand by](https://media4.giphy.com/media/lAoJiJLWTiJ5eKCxWg/giphy.gif?cid=ecf05e47oap64nwip28zafo6nrbu27hfgocu27pn5kf3cvi7&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
-<br />
-
----
-
-<details>
-  <summary>
-    👨🏽 About me
-  </summary>
-  <p>
-    I am a 22 year old Software Technology student at the University of Miskolc. I am interested in the world of software and the code behind applications. I like to make smaller programming projects, these are shown here in my Github repo.
-    
-  </p>
-</details>
-
-<br />
-
----      
+---    
           
           
           
